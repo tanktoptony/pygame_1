@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Mindful/Mindful" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SE 450-final-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SE430" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../SE452-Team5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../hotel-reservation-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../web-dev-projects" vcs="Git" />
+  </component>
+</project>
