@@ -1,5 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85be380b-51f3-49d1-84fc-817d544411fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Angular Course Files/Angular+commands+you+have+to+know.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Angular Course Files/Angular_Components_Handouts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Angular Course Files/Angular_Modules_Handouts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Angular Course Files/Angular_Observables_Handouts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SE430" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScratchPad/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScratchPad/out/production/ScratchPad/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScratchPad/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy_Java_Masterclasss/out/production/Udemy_Java_Masterclasss/FloatAndDouble.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy_Java_Masterclasss/out/production/Udemy_Java_Masterclasss/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../appointment-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book-management-system" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/app-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/trivia.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/trivia.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/trivia.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/trivia/trivia.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/trivia/trivia.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/trivia/trivia.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/trivia/trivia.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graph-vue-blog" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel-reservation-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/.idea/personal_portfolio-project-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/migrations/0002_auto_20201030_1343.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/templates/blog/all_blogs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/templates/blog/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/media/portfolio/images/tony.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/media/portfolio/images/tony_SQNSa1J.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/personal_portfolio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/personal_portfolio/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/personal_portfolio/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/personal_portfolio/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/personal_portfolio/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/static/portfolio/beers_and_cocktails.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/static/portfolio/tony.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/static/portfolio/tony0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/templates/portfolio/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/templates/portfolio/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../personal_portfolio-project-main/portfolio/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rp-portfolio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/snake.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-do-app" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-do-app/app1/add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../to-do-app/app1/complete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tony_django" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/Bootstrap Installation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/Stacking+Order+Flowchart+v2.1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/images/TechCrunch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/images/bizinsider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/images/dog-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/images/iphone6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/images/lady-img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/images/mashable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/images/tnw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/BoozeCruise/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/chillies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/computer-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/computer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/mountain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/profile-pic-two.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/profile-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/images/programming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/CSS - My Site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/HTML - Personal Site/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/HTML - Personal Site/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/HTML - Personal Site/hobbies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/HTML - Personal Site/images/profile-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-dev-projects-main/Web Development/HTML - Personal Site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mindful/Mindful" beforeDir="false" afterPath="$PROJECT_DIR$/../Mindful/Mindful" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mindful/Mindful/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Mindful/Mindful/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Practice/add_delete_dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Practice/add_delete_dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Practice/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Practice/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Practice/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Practice/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Practice/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Practice/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_Practice/range_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_Practice/range_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SE 430/SE430" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SE452-Team5" beforeDir="false" afterPath="$PROJECT_DIR$/../SE452-Team5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SE452-Team5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SE452-Team5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SE452-Team5/ourstore/src/main/resources/templates/home-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../SE452-Team5/ourstore/src/main/resources/templates/home-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScratchPad/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ScratchPad/src/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy_Java_Masterclasss/src/FloatAndDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy_Java_Masterclasss/src/FloatAndDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy_Java_Masterclasss/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy_Java_Masterclasss/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangular-trivia-web/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../djangular-trivia-web/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangular-trivia-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../djangular-trivia-web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangular-trivia-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../djangular-trivia-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangular-trivia-web/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangular-trivia-web/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangular-trivia-web/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../djangular-trivia-web/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../djangular-trivia-web/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/components/AuthorLink.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/components/AuthorLink.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/components/PostList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/components/PostList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/AllPostsView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/AllPostsView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/AuthorView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/AuthorView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/PostView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/PostView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/PostsByTagView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../graph-vue-blog/front_end/src/views/PostsByTagView.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/img/1712099545852.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/static/img/1712099545852.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/img/1712099545852_YKz5r91.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/static/img/1712099545852_YKz5r91.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/static/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/projects/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/projects/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/projects/static/img/project1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/static/img/project1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/projects/static/img/project2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/static/img/project2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/projects/static/img/project3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/personal_portfolio/static/img/project3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/projects/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/projects/templates/project_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/projects/templates/project_detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/projects/templates/project_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../rp-portfolio/projects/templates/project_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rp-portfolio/static/img/1712099545852.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../to-do-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-app/app1/cli.py" beforeDir="false" afterPath="$PROJECT_DIR$/../to-do-app/app1/cli.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-app/app1/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../to-do-app/app1/gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-app/app1/todos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../to-do-app/app1/todos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tony_django/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../tony_django/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tony_django/mysite/portfolio/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tony_django/mysite/portfolio/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tony_django/mysite/portfolio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tony_django/mysite/portfolio/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tony_django/mysite/portfolio/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tony_django/mysite/portfolio/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2moLboSg1INs0PPDp6thHvzLnWt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/antho/Desktop/github/pygame_1"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pygame_1" />
@@ -23,5 +215,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85be380b-51f3-49d1-84fc-817d544411fb" name="Changes" comment="" />
+      <created>1727738055844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727738055844</updated>
+    </task>
+    <servers />
   </component>
 </project>

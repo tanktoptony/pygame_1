@@ -6,7 +6,15 @@
     <mapping directory="$PROJECT_DIR$/../SE 450-final-project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../SE430" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../SE452-Team5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../appointment-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../book-management-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../book-management-system/book-management-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../graph-vue-blog" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../hotel-reservation-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../rp-portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../to-do-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tony_django" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../web-dev-projects" vcs="Git" />
   </component>
 </project>
